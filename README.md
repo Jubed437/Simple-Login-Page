@@ -1,0 +1,3 @@
+This Project was made to understand thw basic working of HTML, CSS ans JavaScript..
+<br>
+The project has a missing Background, which will be added later...
